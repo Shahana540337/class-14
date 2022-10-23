@@ -1,0 +1,10 @@
+$(".open1").click(function(){
+	$(".five").fadeOut()
+})
+$(".open2").click(function(){
+	$(".five").fadeIn()
+})
+$(".open").click(function(){
+	$(".six").slideToggle()
+})
+$(".banner").slick()

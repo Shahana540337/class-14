@@ -1,0 +1,32 @@
+/*.banner{
+	height: 500px;
+	background: red;
+}*/
+
+.one{
+	height: 400px;
+	background: lightsteelblue;
+}
+.two{
+	height: 400px;
+	background: lightpink;
+}
+.three{
+	height: 400px;
+	background: lightgoldenrodyellow;
+}
+.four{
+	height: 400px;
+	background: lightcoral;
+}
+
+.five{
+	height: 400px;
+	width: 400px;
+	background: chocolate;
+}
+.six{
+	height: 400px;
+	width: 400px;
+	background: blueviolet;
+}
